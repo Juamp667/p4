@@ -1,10 +1,14 @@
-🏠 Real Estate Price Analysis  
-Python Jupyter EDA Regression DataViz  
+# 🏠 Real Estate Price Analysis  
+
+![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![EDA](https://img.shields.io/badge/EDA-Exploratory%20Data%20Analysis-green)
+![DataViz](https://img.shields.io/badge/DataViz-Matplotlib%2FSeaborn-yellow)
 
 📊 Exploratory Data Analysis (EDA) and regression modeling on a real estate dataset.  
 The goal is to explore the data, identify correlations between features and property prices, and build predictive models that estimate housing values.  
 
-🚀 Project Contents  
+## 🚀 Project Contents  
 **Data Cleaning**  
 - Data loading with pandas  
 - Handling missing values and duplicates  
@@ -27,14 +31,14 @@ The goal is to explore the data, identify correlations between features and prop
 - Scatter plots of target vs. predictors  
 - Model performance plots  
 
-🛠️ Technologies Used  
+## 🛠️ Technologies Used  
 - Python (pandas, numpy, matplotlib, seaborn, scikit-learn)  
 - Jupyter Notebook  
 
-🏆 Key Results  
+## 🏆 Key Results  
 - Identification of key features driving property prices  
 - Performance comparison of regression models  
 - Insights into correlations and feature importance  
 
-🔖 Tags  
+## 🔖 Tags  
 #EDA #DataCleaning #Regression #DataVisualization #Python #Pandas #ScikitLearn #RealEstate  
